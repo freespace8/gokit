@@ -2,7 +2,7 @@
 ### How to use it.
 ```
 import (
-  "github.com/freespace8/cache"
+  "github.com/freespace8/gokit/cache"
   "github.com/redis/go-redis/v9"
 )
 
